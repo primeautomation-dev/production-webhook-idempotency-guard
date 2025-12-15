@@ -1,0 +1,5 @@
+# Core runtime
+# (No external runtime dependencies required)
+
+# Development / testing
+pytest>=7.4
